@@ -1,4 +1,4 @@
-👋 Please refer our [doumentation](https://ignitus.gitbook.io/ignitus/) to get insights on contributing & conventions guidelines. 
+👋 Please refer our [doumentation](https://ignitus-docs.gitbook.io/ignitus/) to get insights on contributing & conventions guidelines. 
 
 Access our user-Interface design [Figma]( https://www.figma.com/file/BrP5RowC7va50HyETZQUDA/Ignitus-Design?node-id=0%3A1)
 
