@@ -1,14 +1,17 @@
 # Ignitus Design
 
-Welcome to the Ignitus design Repo. Here you can file issues with your design requests for the ignitus web platform, find collaborators, or find design tasks to tackle. Don't forget to use the issue template below to make sure you are including all the relevant information!
+Welcome to the Ignitus design repository. 👋 
 
-Anyone can take (or make) a design issue, as long as it is related to Ignitus!
+Here you can file issues with your design requests for the Ignitus web platform, find collaborators & find design tasks to tackle 💭 . Don't forget to use the issue template below to make sure you are including all the relevant information!.
 
-NEED HELP? 👋 Please refer our [doumentation](https://ignitus-docs.gitbook.io/ignitus/) to get insights about the project.  
+Anyone can take (or create) a design issue, as long as it is related to Ignitus!.
 
-NOTE: Once you've completed a project please include the source files!
+### NEED HELP? 👋 
 
-Access our user-Interface design [Figma]( https://www.figma.com/file/BrP5RowC7va50HyETZQUDA/Ignitus-Design?node-id=0%3A1)
+* Please refer our [doumentation](https://ignitus-docs.gitbook.io/ignitus/) to get insights about the project.  
+* Access our user-Interface design [Figma]( https://www.figma.com/file/BrP5RowC7va50HyETZQUDA/Ignitus-Design?node-id=0%3A1)
+
+### NOTE: Once you've completed a project please include the source files!
 
 <div align="center">
   <br>
